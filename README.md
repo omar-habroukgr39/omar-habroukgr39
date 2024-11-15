@@ -1,10 +1,12 @@
 🚀 Aspiring Scientist & Programmer | 🎓 Student at Victoria College, Alexandria
 
 💡 Passions:
+  Science & Technology: Delving into physics and coding
+  Mathematics: Tackling challenges with logic and precision
+  Languages: Learning German to achieve my dream of studying in Germany.
 
-Science & Technology: Delving into physics and coding
-Mathematics: Tackling challenges with logic and precision
-Languages: Learning German to achieve my dream of studying in Germany
+
+
 🎯 Goals:
 
 Create and contribute to impactful open-source projects
